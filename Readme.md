@@ -1,5 +1,7 @@
 # Node and NPM
 
+![Node and NPM](https://github.com/pragyaasapkota/Portfolio/raw/master/Images/Node%20and%20NPM.jpg)
+
 Node js is an open source development platform for executing JAvascript code server-side.
 
 NPM (Node Package Manager) is the world's largest Software Registry with over 800,000 code packages. Open source developers use npm to share software.
